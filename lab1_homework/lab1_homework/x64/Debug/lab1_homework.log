@@ -1,0 +1,8 @@
+﻿  Source.c
+D:\уник\lab1_homework\Source.c(5,7): warning C4129: " ": нераспознанная escape-последовательность символов
+D:\уник\lab1_homework\Source.c(6,7): warning C4129: " ": нераспознанная escape-последовательность символов
+D:\уник\lab1_homework\Source.c(7,7): warning C4129: "_": нераспознанная escape-последовательность символов
+D:\уник\lab1_homework\Source.c(8,7): warning C4129: " ": нераспознанная escape-последовательность символов
+D:\уник\lab1_homework\Source.c(11,7): warning C4129: "_": нераспознанная escape-последовательность символов
+D:\уник\lab1_homework\Source.c(12,7): warning C4129: "_": нераспознанная escape-последовательность символов
+  lab1_homework.vcxproj -> D:\уник\lab1_homework\x64\Debug\lab1_homework.exe
