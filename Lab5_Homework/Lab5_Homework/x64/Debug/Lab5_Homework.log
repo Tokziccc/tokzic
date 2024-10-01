@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\уник\информатика\Lab5_Homework\Source.c(6,12): warning C4305: инициализация: усечение из "double" в "float"
+D:\уник\информатика\Lab5_Homework\Source.c(6,23): warning C4305: инициализация: усечение из "double" в "float"
+  Lab5_Homework.vcxproj -> D:\уник\информатика\Lab5_Homework\x64\Debug\Lab5_Homework.exe
