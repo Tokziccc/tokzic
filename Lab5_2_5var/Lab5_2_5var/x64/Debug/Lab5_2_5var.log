@@ -1,0 +1,6 @@
+﻿  Source.c
+D:\уник\информатика\долги\Lab5_2_5var\Source.c(10,6): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\уник\информатика\долги\Lab5_2_5var\Source.c(11,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\уник\информатика\долги\Lab5_2_5var\Source.c(12,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\уник\информатика\долги\Lab5_2_5var\Source.c(9,12): warning C4305: инициализация: усечение из "double" в "float"
+  Lab5_2_5var.vcxproj -> D:\уник\информатика\долги\Lab5_2_5var\x64\Debug\Lab5_2_5var.exe
