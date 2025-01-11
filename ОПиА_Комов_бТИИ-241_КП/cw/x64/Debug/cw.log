@@ -1,0 +1,10 @@
+﻿  Source.c
+D:\уник\информатика\cw\Source.c(26,14): warning C4013: get_valid_input: нет определения; предполагается "extern" с возвратом типа "int"
+D:\уник\информатика\cw\Source.c(32,9): warning C4013: fill_array: нет определения; предполагается "extern" с возвратом типа "int"
+D:\уник\информатика\cw\Source.c(33,9): warning C4013: print_array: нет определения; предполагается "extern" с возвратом типа "int"
+D:\уник\информатика\cw\Source.c(40,14): warning C4013: file_have: нет определения; предполагается "extern" с возвратом типа "int"
+D:\уник\информатика\cw\Source.c(45,17): warning C4013: output_file: нет определения; предполагается "extern" с возвратом типа "int"
+D:\уник\информатика\cw\Source.c(69,13): warning C4013: find_element: нет определения; предполагается "extern" с возвратом типа "int"
+D:\уник\информатика\cw\Source.c(75,13): warning C4013: input_file: нет определения; предполагается "extern" с возвратом типа "int"
+D:\уник\информатика\cw\Source.c(96,13): warning C4013: sort_massiv: нет определения; предполагается "extern" с возвратом типа "int"
+  cw.vcxproj -> D:\уник\информатика\cw\x64\Debug\cw.exe
